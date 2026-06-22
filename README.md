@@ -26,8 +26,16 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [x] Describe the game's purpose.
+
+Game Glitch Investigator is a number guessing game. Choose your level of difficulty and guess the number!
+
 - [x] Detail which bugs you found.
+
+There were a lot of numerical errors. The difficulty ranges were mixed up, as were the number of attempts, and the proper values weren't being displayed in a lot of places.
+
 - [x] Explain what fixes you applied.
+
+Just a lot of swapping, it seemed values were correct but some things were in the wrong spot or hardcoded, like the number of attempts for each difficulty
 
 ## 📸 Demo Walkthrough
 
